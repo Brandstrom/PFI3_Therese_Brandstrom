@@ -3,9 +3,10 @@
 
 
 
-    <string name="quote_1">1This quote is very importent</string>
-    <string name="quote_2">2This is a quote tell you to appreciating your life</string>
-    <string name="quote_3">3Another quote about something very very importent</string>
+    <string name="quote_1">quote1</string>
+   // <string name="quote_2">quote2</string>
+   // <string name="quote_3">quote3</string>
+
 <!-- -->
 
 </resources>

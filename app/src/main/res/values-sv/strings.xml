@@ -1,5 +1,7 @@
 <resources>
 
-    <string name="quote_1">Hej</string>
+    <string name="citat_1">quote1</string>
+   <string name="citat_2">quote22</string>
+    <string name="citat_3">quote3</string>
 
 </resources>
